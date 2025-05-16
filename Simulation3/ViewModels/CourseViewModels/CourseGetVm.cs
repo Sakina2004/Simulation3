@@ -6,7 +6,7 @@ namespace Simulation3.ViewModel.ProductViewModels
     {
         public int Id { get; set; }
         public string ImagePath { get; set; }
-        public string DateTime { get; set; }
+        public DateTime DateTime { get; set; }
         public string Description { get; set; }
         public string Title { get; set; }
         public string Trainer { get; set; }

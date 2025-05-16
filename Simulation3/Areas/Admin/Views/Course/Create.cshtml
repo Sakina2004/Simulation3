@@ -1,0 +1,30 @@
+﻿@using Simulation3.ViewModels.CourseViewModels
+@model CourseCreateVm
+
+<form method="post">
+  <div class="form-group">
+    <label for="exampleInputEmail1" asp-for="DateTime"></label>
+    <input  class="form-control" asp-for="DateTime" placeholder="Enter your wish DateTime">
+    <span asp-validation-for="DateTime" class="text-danger"></span>
+  </div>
+   <div class="form-group">
+    <label for="exampleInputEmail1" asp-for="Description"></label>
+    <input  class="form-control" asp-for="Description" placeholder="Enter your Description">
+    <span asp-validation-for="Description" class="text-danger"></span>
+  </div>
+   <div class="form-group">
+    <label for="exampleInputEmail1" asp-for="Title"></label>Title">
+    <span asp-validation-for="Title" class="text-danger"></span>
+  </div>
+   <div class="form-group">
+    <label for="exampleInputEmail1" asp-for="Trainer"></label>
+    <input  class="form-control" asp-for="Trainer" placeholder="Enter your Trainer">
+    <span asp-validation-for="Trainer" class="text-danger"></span>
+  </div>
+   <div class="form-group">
+    <label for="exampleInputEmail1" asp-for="DateTime"></label>
+    <input  class="form-control" asp-for="DateTime" placeholder="Enter your wish DateTime">
+    <span asp-validation-for="DateTime" class="text-danger"></span>
+  </div>
+<button type="submit" class="btn btn-primary">Submit</button>
+</form>

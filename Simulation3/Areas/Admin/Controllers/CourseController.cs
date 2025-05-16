@@ -21,5 +21,9 @@ namespace Simulation3.Areas.Admin.Controllers
             }).ToListAsync();
             return View(courses);
         }
+        public IActionResult Create()
+        {
+            return View();
+        }
     }
 }
