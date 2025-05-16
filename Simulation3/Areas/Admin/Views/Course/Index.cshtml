@@ -1,11 +1,12 @@
 ﻿@model List<CourseGetVm>
 <table class="table">
     <thead class="thead-dark">
+        <a class="btn btn-success" asp-action="Create" >Create</a>
     
         <tr>
             <th scope="col">#ID</th>
             <th scope="col">Image</th>
-            <th scope="col">DateTime</th>
+            <th scope="col">Time</th>
             <th scope="col">Description</th>
             <th scope="col">Title</th>
             <th scope="col">Trainer</th>
@@ -18,13 +19,13 @@
             <tr>
                 <th scope="row">@course.Id</th>
                 <td><img src="~/images/@course.ImagePath"/></td>
-                <td>@course.DateTime</td>
+                <td>@course.Time</td>
                 <td>@course.Description</td>     
                 <td>@course.Title</td>
                 <td>@course.Trainer</td>
                 <td>
                    
-                    <a class="btn btn-success" asp-action="Create" >Create</a>
+                    
                     <a class=" btn btn-warning" asp-action="Update" asp-route-id="@course.Id">Update</a>
                     <a class="btn btn-danger" asp-action="Delete" asp-route-id="@course.Id">Delete</a>
                 </td>

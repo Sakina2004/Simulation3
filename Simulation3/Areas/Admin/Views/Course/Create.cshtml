@@ -1,30 +1,35 @@
-﻿@using Simulation3.ViewModels.CourseViewModels
+﻿
 @model CourseCreateVm
 
-<form method="post">
-  <div class="form-group">
-    <label for="exampleInputEmail1" asp-for="DateTime"></label>
-    <input  class="form-control" asp-for="DateTime" placeholder="Enter your wish DateTime">
-    <span asp-validation-for="DateTime" class="text-danger"></span>
-  </div>
-   <div class="form-group">
-    <label for="exampleInputEmail1" asp-for="Description"></label>
-    <input  class="form-control" asp-for="Description" placeholder="Enter your Description">
-    <span asp-validation-for="Description" class="text-danger"></span>
-  </div>
-   <div class="form-group">
-    <label for="exampleInputEmail1" asp-for="Title"></label>Title">
-    <span asp-validation-for="Title" class="text-danger"></span>
-  </div>
-   <div class="form-group">
-    <label for="exampleInputEmail1" asp-for="Trainer"></label>
-    <input  class="form-control" asp-for="Trainer" placeholder="Enter your Trainer">
-    <span asp-validation-for="Trainer" class="text-danger"></span>
-  </div>
-   <div class="form-group">
-    <label for="exampleInputEmail1" asp-for="DateTime"></label>
-    <input  class="form-control" asp-for="DateTime" placeholder="Enter your wish DateTime">
-    <span asp-validation-for="DateTime" class="text-danger"></span>
-  </div>
-<button type="submit" class="btn btn-primary">Submit</button>
+<form enctype="multipart/form-data" method ="post">
+
+        <div class="form-group">
+            <label for="exampleInputEmail1" asp-for="Time"></label>
+            <input class="form-control" asp-for="Time" placeholder="Enter your wish DateTime">
+            <span asp-validation-for="Time" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1" asp-for="Description"></label>
+            <input class="form-control" asp-for="Description" placeholder="Enter your Description">
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1" asp-for="Title">Title</label>
+            <span asp-validation-for="Title" class="text-danger"></span>
+            <input class="form-control" asp-for="Title">
+
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1" asp-for="CategoryId">Category Name</label>
+            <input class="form-control" asp-for="CategoryId" placeholder="Enter your Trainer">
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1" asp-for="Image"></label>
+            <input class="form-control" asp-for="Image" placeholder="Enter your wish DateTime">
+            <span asp-validation-for="Image" class="text-danger"></span>
+        </div>
+
+ 
+<a type="submit" class="btn btn-primary" asp-action="Index">Submit</a>
 </form>
