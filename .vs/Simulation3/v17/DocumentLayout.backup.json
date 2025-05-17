@@ -1,7 +1,43 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\Simulation3\\",
+  "WorkspaceRootPath": "C:\\Users\\Classtime\\Desktop\\Simulation3\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\areas\\admin\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\areas\\admin\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\areas\\admin\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\areas\\admin\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\viewmodels\\trainerviewmodels\\trainergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\viewmodels\\trainerviewmodels\\trainergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\areas\\admin\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\areas\\admin\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -9,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\viewmodels\\courseviewmodels\\courseupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,36 +55,12 @@
       "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\viewmodels\\courseviewmodels\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Migrations\\20250516161827_createdtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Simulation3\\Migrations\\20250516161827_createdtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\viewmodels\\courseviewmodels\\coursegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\viewmodels\\courseviewmodels\\coursegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,6 +109,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|c:\\users\\classtime\\desktop\\simulation3\\simulation3\\migrations\\20250516161827_createdtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A489F5-BEDE-4C0F-B9CF-C44601569B0D}|Simulation3\\Simulation3.csproj|solutionrelative:simulation3\\migrations\\20250516161827_createdtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,54 +122,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Update.cshtml",
-              "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Views\\Course\\Update.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Update.cshtml",
-              "RelativeToolTip": "Simulation3\\Areas\\Admin\\Views\\Course\\Update.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T17:03:32.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CourseUpdateVm.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseUpdateVm.cs",
-              "RelativeDocumentMoniker": "Simulation3\\ViewModels\\CourseViewModels\\CourseUpdateVm.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseUpdateVm.cs",
-              "RelativeToolTip": "Simulation3\\ViewModels\\CourseViewModels\\CourseUpdateVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "Simulation3\\Areas\\Admin\\Controllers\\TrainerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T17:00:14.531Z",
+              "WhenOpened": "2025-05-17T14:58:16.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250516161827_createdtable.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Migrations\\20250516161827_createdtable.cs",
-              "RelativeDocumentMoniker": "Simulation3\\Migrations\\20250516161827_createdtable.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Migrations\\20250516161827_createdtable.cs",
-              "RelativeToolTip": "Simulation3\\Migrations\\20250516161827_createdtable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "TrainerGetVm.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\TrainerViewModels\\TrainerGetVm.cs",
+              "RelativeDocumentMoniker": "Simulation3\\ViewModels\\TrainerViewModels\\TrainerGetVm.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\TrainerViewModels\\TrainerGetVm.cs",
+              "RelativeToolTip": "Simulation3\\ViewModels\\TrainerViewModels\\TrainerGetVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T16:18:27.757Z",
+              "WhenOpened": "2025-05-17T14:25:03.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Create.cshtml",
               "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Views\\Course\\Create.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Create.cshtml",
               "RelativeToolTip": "Simulation3\\Areas\\Admin\\Views\\Course\\Create.cshtml",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -166,102 +165,100 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Index.cshtml",
               "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Views\\Course\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Index.cshtml",
               "RelativeToolTip": "Simulation3\\Areas\\Admin\\Views\\Course\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-16T12:21:30.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Course.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Simulation3\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Course.cs",
               "RelativeToolTip": "Simulation3\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T12:21:30.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CourseCreateVm.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
-              "RelativeDocumentMoniker": "Simulation3\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
-              "RelativeToolTip": "Simulation3\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T13:39:36.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Simulation3\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:21:30.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T12:21:30.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "Simulation3\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAvwEgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:21:30.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Simulation3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T12:21:30.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\appsettings.json",
               "RelativeDocumentMoniker": "Simulation3\\appsettings.json",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\appsettings.json",
               "RelativeToolTip": "Simulation3\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-16T12:21:30.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Simulation3\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:21:30.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
+              "RelativeToolTip": "Simulation3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T14:58:41.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseCreateVm.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
+              "RelativeDocumentMoniker": "Simulation3\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
+              "RelativeToolTip": "Simulation3\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:39:36.687Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Trainer.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Trainer.cs",
               "RelativeDocumentMoniker": "Simulation3\\Models\\Trainer.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Trainer.cs",
               "RelativeToolTip": "Simulation3\\Models\\Trainer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,55 +266,97 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250516161827_createdtable.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Migrations\\20250516161827_createdtable.cs",
+              "RelativeDocumentMoniker": "Simulation3\\Migrations\\20250516161827_createdtable.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Migrations\\20250516161827_createdtable.cs",
+              "RelativeToolTip": "Simulation3\\Migrations\\20250516161827_createdtable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:18:27.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\DataAccessLayer\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Simulation3\\DataAccessLayer\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\DataAccessLayer\\AppDbContext.cs",
-              "RelativeToolTip": "Simulation3\\DataAccessLayer\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:21:30.503Z",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "RelativeToolTip": "Simulation3\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T17:03:32.623Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseUpdateVm.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseUpdateVm.cs",
+              "RelativeDocumentMoniker": "Simulation3\\ViewModels\\CourseViewModels\\CourseUpdateVm.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseUpdateVm.cs",
+              "RelativeToolTip": "Simulation3\\ViewModels\\CourseViewModels\\CourseUpdateVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:00:14.531Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Simulation3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:21:30.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Simulation3\\DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "Simulation3\\DataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:21:30.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "CourseGetVm.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseGetVm.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseGetVm.cs",
               "RelativeDocumentMoniker": "Simulation3\\ViewModels\\CourseViewModels\\CourseGetVm.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseGetVm.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\ViewModels\\CourseViewModels\\CourseGetVm.cs",
               "RelativeToolTip": "Simulation3\\ViewModels\\CourseViewModels\\CourseGetVm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T12:21:30.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T12:21:30.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Simulation3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T12:21:30.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T12:21:30.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Simulation3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -325,11 +364,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Simulation3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Simulation3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUBAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -337,11 +376,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Simulation3\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Simulation3\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -349,11 +388,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Program.cs",
               "RelativeDocumentMoniker": "Simulation3\\Program.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Program.cs",
               "RelativeToolTip": "Simulation3\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -361,11 +400,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Simulation3\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Simulation3\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAL0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -373,11 +412,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Simulation3\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Simulation3\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -385,11 +424,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Simulation3\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Simulation3\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -397,11 +436,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "20250516061925_CreatedProductTAble.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Migrations\\20250516061925_CreatedProductTAble.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Migrations\\20250516061925_CreatedProductTAble.cs",
               "RelativeDocumentMoniker": "Simulation3\\Migrations\\20250516061925_CreatedProductTAble.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Migrations\\20250516061925_CreatedProductTAble.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Migrations\\20250516061925_CreatedProductTAble.cs",
               "RelativeToolTip": "Simulation3\\Migrations\\20250516061925_CreatedProductTAble.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -409,11 +448,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Common\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Simulation3\\Models\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Models\\Common\\BaseEntity.cs",
               "RelativeToolTip": "Simulation3\\Models\\Common\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -421,11 +460,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Simulation3\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\Simulation3\\Simulation3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Simulation3\\Simulation3\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Simulation3\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
